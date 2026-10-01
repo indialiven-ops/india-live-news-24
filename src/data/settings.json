@@ -1,0 +1,60 @@
+{
+  "theme": "samachar",
+  "language": "hi",
+  "site_title": "India Live News 24",
+  "tagline": "हर खबर, सबसे पहले",
+  "description": "India Live News 24 — वाराणसी, उत्तर प्रदेश और देश-दुनिया की ताज़ा खबरें।",
+  "logo": "/uploads/logo.png",
+  "brand_color": "#14285a",
+  "site_url": "https://india-live-news-24.pages.dev",
+  "locale": "hi-IN",
+  "timezone": "Asia/Kolkata",
+  "show_ticker": true,
+  "protect_content": false,
+  "ticker_label": "ब्रेकिंग",
+  "auto_delete_days": 5,
+  "whatsapp_channel": "",
+  "telegram_channel": "",
+  "app": {
+    "play_store": "",
+    "app_store": ""
+  },
+  "social": {
+    "x": "https://x.com/IndiaLiveN57246",
+    "facebook": "https://www.facebook.com/profile.php?id=100091834127913",
+    "instagram": "https://www.instagram.com/india_live_news_24",
+    "youtube": "https://youtube.com/@iln24",
+    "whatsapp": "https://wa.me/918957607542"
+  },
+  "follow": {
+    "show": true,
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "youtube_views": "",
+    "youtube_channel": "@iln24",
+    "youtube_api_key": ""
+  },
+  "subscribe_popup": {
+    "show": true,
+    "delay": 1,
+    "days": 7,
+    "title": "",
+    "text": ""
+  },
+  "quotes": [
+    "मेहनत इतनी खामोशी से करो कि सफलता शोर मचा दे।",
+    "छोटे-छोटे कदम ही बड़ी मंज़िल तक पहुंचाते हैं।",
+    "जो बीत गया उस पर पछताने के बजाय, आने वाले कल को बेहतर बनाइए।",
+    "सच्चाई की राह कठिन ज़रूर है, पर उसका अंत हमेशा सुंदर होता है।",
+    "ज्ञान बांटने से बढ़ता है, इसलिए सीखते रहिए और सिखाते रहिए।",
+    "हर सुबह एक नया मौका है, उसे पूरे मन से जीइए।",
+    "दूसरों की मदद करना ही सबसे बड़ी सेवा है।"
+  ],
+  "donate": {
+    "upi_id": "",
+    "payee_name": "India Live News 24",
+    "note": ""
+  },
+  "footer_note": ""
+}
