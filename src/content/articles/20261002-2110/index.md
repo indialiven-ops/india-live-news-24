@@ -4,9 +4,9 @@ excerpt: मिर्जामुराद के कल्लीपुर म�
 category: uttar-pradesh
 author: ''
 date: 2026-10-02T15:39:00Z
-cover: pasted-image-1790955618551.webp
-cover_alt: ''
-cover_caption: ''
+cover: 1009250576.webp
+cover_alt: ai
+cover_caption: Ai
 photos: []
 youtube: ''
 facebook: ''
