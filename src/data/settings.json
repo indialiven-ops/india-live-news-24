@@ -12,6 +12,7 @@
   "show_ticker": true,
   "protect_content": false,
   "ticker_label": "ब्रेकिंग",
+  "ticker_color": "#d21f26",
   "auto_delete_days": 5,
   "whatsapp_channel": "",
   "telegram_channel": "",
@@ -36,8 +37,8 @@
     "youtube_api_key": ""
   },
   "subscribe_popup": {
-    "show": true,
-    "delay": 1,
+    "show": false,
+    "delay": 6,
     "days": 7,
     "title": "",
     "text": ""

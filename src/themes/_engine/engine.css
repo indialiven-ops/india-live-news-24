@@ -2779,3 +2779,24 @@ a.sm-story__author:hover {
   text-decoration: none;
 }
 .w-follow__btn:hover { filter: brightness(1.08); }
+
+/* Breaking strip in its own colour (Settings → ब्रेकिंग पट्टी का रंग): the whole bar takes the colour,
+   the headlines turn white and the "ब्रेकिंग" pill becomes a white badge. */
+[style*='--ticker'] .ticker {
+  background: var(--ticker);
+  border-bottom-color: color-mix(in srgb, var(--ticker) 70%, #000);
+}
+[style*='--ticker'] .ticker__label {
+  background: var(--on-ticker);
+  color: var(--ticker);
+}
+[style*='--ticker'] .ticker__item {
+  color: var(--on-ticker);
+}
+[style*='--ticker'] .ticker__item:hover {
+  color: var(--on-ticker);
+  text-decoration: underline;
+}
+[style*='--ticker'] .ticker__item::before {
+  background: color-mix(in srgb, var(--on-ticker) 60%, transparent);
+}

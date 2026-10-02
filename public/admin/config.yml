@@ -334,6 +334,11 @@ collections:
             hint: चालू करने पर साइट से टेक्स्ट और फोटो कॉपी नहीं होंगे, और राइट-क्लिक बंद रहेगा। पूरी तरह रोकना मुमकिन नहीं — स्क्रीनशॉट फिर भी लिए जा सकते हैं।
           - { label: ब्रेकिंग टिकर दिखाएं (Show breaking ticker), name: show_ticker, widget: boolean, default: true }
           - { label: टिकर लेबल (Ticker label), name: ticker_label, widget: string, default: ब्रेकिंग }
+          - label: ब्रेकिंग पट्टी का रंग (Breaking strip colour)
+            name: ticker_color
+            widget: color
+            required: false
+            hint: खाली छोड़ेंगे तो पट्टी ब्रांड रंग में रहेगी। लाल (#d21f26) भरने पर पूरी पट्टी लाल और उस पर खबरें सफ़ेद दिखेंगी।
           - { label: WhatsApp चैनल लिंक, name: whatsapp_channel, widget: string, required: false }
           - { label: Telegram लिंक, name: telegram_channel, widget: string, required: false }
           - { label: पुरानी खबरें अपने-आप हटाएं — कितने दिन बाद (Auto-delete old stories after N days), name: auto_delete_days, widget: number, value_type: int, min: 0, required: false, hint: 'इतने दिन से पुरानी खबरें और वेब स्टोरीज़ हर रात अपने-आप हट जाएंगी (नई 20 खबरें हमेशा रहेंगी)। 0 = कभी न हटाएं।' }
