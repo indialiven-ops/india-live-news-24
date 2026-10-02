@@ -6,7 +6,7 @@
 
 backend:
   name: github
-  repo: mahat4645-droid/india-live-news-24
+  repo: indialiven-ops/india-live-news-24
   branch: main
 
 site_url: https://india-live-news-24.pages.dev
