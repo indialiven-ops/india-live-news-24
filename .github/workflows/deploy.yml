@@ -39,6 +39,15 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
+      # If the deploy below fails, this line's output shows what the token can actually see —
+      # the projects in that account, with their exact names. It never stops the run.
+      - name: Which Pages projects can this token see?
+        continue-on-error: true
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages project list
       - uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
