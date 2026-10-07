@@ -3,8 +3,8 @@
     {
       "name": "Janhvi Heritage",
       "active": true,
-      "placement": "story",
-      "order": null,
+      "placement": "home",
+      "order": 1,
       "slide": false,
       "image": "/uploads/1009234561.webp",
       "link": "",
