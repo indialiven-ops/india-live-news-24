@@ -3,9 +3,9 @@
     {
       "name": "Janhvi Heritage",
       "active": true,
-      "placement": "home",
+      "placement": "after-story",
       "order": 1,
-      "slide": false,
+      "slide": true,
       "image": "/uploads/1009234561.webp",
       "link": "",
       "code": ""
@@ -13,9 +13,9 @@
     {
       "name": "Hotel Ramya",
       "active": true,
-      "placement": "after-story",
+      "placement": "story",
       "order": 2,
-      "slide": false,
+      "slide": true,
       "image": "/uploads/1009328933.webp",
       "link": "www.hotelramyavaranasi.in",
       "code": ""
