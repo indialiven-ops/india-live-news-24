@@ -9,6 +9,16 @@
       "image": "/uploads/1009234561.webp",
       "link": "",
       "code": ""
+    },
+    {
+      "name": "Hotel Ramya",
+      "active": true,
+      "placement": "after-story",
+      "order": 2,
+      "slide": false,
+      "image": "/uploads/1009328933.webp",
+      "link": "www.hotelramyavaranasi.in",
+      "code": ""
     }
   ]
 }
