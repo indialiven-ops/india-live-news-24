@@ -10,7 +10,13 @@ cover_caption: ''
 photos: []
 youtube: ''
 facebook: ''
-tags: []
+tags:
+  - VaranasiNews
+  - ChowkPolice
+  - वाराणसी
+  - TrafficUpdate
+  - UPPolice
+  - IndiaLiveNews24
 featured: true
 breaking: true
 draft: false
