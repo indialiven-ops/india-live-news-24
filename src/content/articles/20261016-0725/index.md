@@ -10,7 +10,14 @@ cover_caption: ''
 photos: []
 youtube: ''
 facebook: ''
-tags: []
+tags:
+  - CMYogi
+  - YogiAdityanath
+  - VaranasiNews
+  - UPNews
+  - BreakingNews
+  - UttarPradeshNews
+  - IndiaLiveNews24
 featured: true
 breaking: true
 draft: false
