@@ -11,6 +11,16 @@
       "code": ""
     },
     {
+      "name": "Vasudev Solar",
+      "active": true,
+      "placement": "story",
+      "order": 3,
+      "slide": true,
+      "image": "/uploads/1009615744.webp",
+      "link": "",
+      "code": ""
+    },
+    {
       "name": "Hotel Ramya",
       "active": true,
       "placement": "story",
@@ -18,16 +28,6 @@
       "slide": true,
       "image": "/uploads/1009328933.webp",
       "link": "www.hotelramyavaranasi.in",
-      "code": ""
-    },
-    {
-      "name": "Vasudev Solar",
-      "active": true,
-      "placement": "home",
-      "order": 3,
-      "slide": true,
-      "image": "/uploads/1009615744.webp",
-      "link": "",
       "code": ""
     }
   ]
