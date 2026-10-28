@@ -23,7 +23,7 @@
     {
       "name": "Hotel Ramya",
       "active": true,
-      "placement": "story",
+      "placement": "top",
       "order": 2,
       "slide": true,
       "image": "/uploads/1009328933.webp",
