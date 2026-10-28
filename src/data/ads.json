@@ -14,7 +14,7 @@
       "name": "Vasudev Solar",
       "active": true,
       "placement": "story",
-      "order": 3,
+      "order": 2,
       "slide": true,
       "image": "/uploads/1009615744.webp",
       "link": "",
@@ -26,7 +26,7 @@
       "placement": "top",
       "order": 2,
       "slide": true,
-      "image": "/uploads/1009328933.webp",
+      "image": "",
       "link": "www.hotelramyavaranasi.in",
       "code": ""
     }
