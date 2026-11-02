@@ -15,7 +15,6 @@ tags:
   - Amit Kumar Hapur
   - OPPO Mobile Lucky Draw
   - 10 Lakh Prize
-  - Hapur Breaking News
   - OPPO Lucky Draw Winner
   - Amit Kumar Winner
   - Hapur Latest News
