@@ -4,7 +4,7 @@ excerpt: वाराणसी के आदमपुर थाना क्ष�
 category: crime
 author: ''
 date: 2026-11-03T15:15:00Z
-cover: 1009726982.webp
+cover: 1009740038.webp
 cover_alt: ''
 cover_caption: ''
 photos: []
