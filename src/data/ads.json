@@ -39,6 +39,16 @@
       "image": "/uploads/1009775255.webp",
       "link": "",
       "code": ""
+    },
+    {
+      "name": "Happy Diwali Rishi",
+      "active": true,
+      "placement": "home",
+      "order": null,
+      "slide": false,
+      "image": "",
+      "link": "",
+      "code": ""
     }
   ]
 }
