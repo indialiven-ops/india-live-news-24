@@ -4,7 +4,7 @@ excerpt: बनारस स्टेशन पर RPF ने बड़ी क�
 category: crime
 author: ''
 date: 2026-11-14T16:26:00Z
-cover: file_0000000046c482088abc8a5a5ad1c9c8.webp
+cover: file_00000000cda48208a0d551036c4c6af8.webp
 cover_alt: ''
 cover_caption: ''
 photos: []
