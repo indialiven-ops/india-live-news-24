@@ -69,8 +69,10 @@
   </head>
   <body>
     <a class="ai-helper" href="ai.html">AI से खबर लिखें</a>
-    <!-- Sveltia CMS: free, open-source, Git-based admin panel. Configuration lives in ./config.yml -->
-    <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+    <!-- Sveltia CMS: free, open-source, Git-based admin panel. Configuration lives in ./config.yml
+         The version is pinned on purpose: an unpinned link jumped to 5.0 on 2026-11-26 and broke every
+         client's admin panel at once. Only change the number after testing the new version on one site. -->
+    <script src="https://unpkg.com/@sveltia/cms@0.273.1/dist/sveltia-cms.js"></script>
     <script>
       // Adds a "YouTube" button to the story editor so videos can be placed anywhere inside an article.
       const ytId = (value = '') => {
