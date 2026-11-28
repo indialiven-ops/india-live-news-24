@@ -23,7 +23,7 @@
     "youtube_api_key": ""
   },
   "subscribe_popup": {
-    "show": false,
+    "show": true,
     "delay": 6,
     "days": 7,
     "title": "",
@@ -32,13 +32,13 @@
   "site_url": "https://india-live-news-24.pages.dev",
   "locale": "hi-IN",
   "timezone": "Asia/Kolkata",
-  "protect_content": true,
+  "protect_content": false,
   "show_ticker": true,
   "ticker_label": "ब्रेकिंग",
   "ticker_color": "#d21f26",
   "whatsapp_channel": "Follow thttps://whatsapp.com/channel/0029VaDdnJiEQIai6IDrdI3W",
   "telegram_channel": "",
-  "auto_delete_days": 5,
+  "auto_delete_days": 0,
   "app": {
     "play_store": "",
     "app_store": "",
